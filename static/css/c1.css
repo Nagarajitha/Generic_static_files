@@ -1,0 +1,35 @@
+h1{
+    color: blue;
+    background-color:orange;
+    margin: 5px;
+    
+}
+h2{
+    color: cadetblue;
+}
+img{
+    border-radius: 15px;
+}
+body{
+    background-color:azure;
+}
+.rohi{
+    color:blueviolet;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+
+
+}
+
+#r1
+{
+    color:cornflowerblue;
+    font-size: 50px;
+    background-color:rgb(229, 199, 64);
+}
+#v1
+{
+    color: darkolivegreen;
+    font-size: 50px;
+    background-color:rgb(171, 134, 121);
+}
